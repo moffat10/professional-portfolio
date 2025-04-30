@@ -4,3 +4,8 @@
 #footerdev{
     text-align: center;
 }
+.nav{
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
